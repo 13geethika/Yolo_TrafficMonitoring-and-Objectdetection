@@ -1,0 +1,8 @@
+
+    train: C:/Users/geeth/OneDrive/Documents/Desktop/Yolov8project/data/train
+    val: C:/Users/geeth/OneDrive/Documents/Desktop/Yolov8project/data/valid
+    test: C:/Users/geeth/OneDrive/Documents/Desktop/Yolov8project/data/test
+
+    nc: 12
+    names: ['Motorized2wheleer', 'ambasador_taxi', 'autorickshaw', 'bicycle', 'bus', 'car', 'minitruck', 'motarvan', 'rickshaw', 'toto', 'truck', 'van']
+    
